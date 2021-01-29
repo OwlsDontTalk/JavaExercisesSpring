@@ -1,1 +1,1 @@
-# JavaExercisesSpring
+# JavaSpringExercise
